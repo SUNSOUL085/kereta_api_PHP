@@ -1,0 +1,2 @@
+untuk login sebagai admin gunakan : username = iman, password = 123.
+untuk login sebagai user gunakan : username = iman, password = 111.
